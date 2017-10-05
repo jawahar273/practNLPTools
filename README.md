@@ -1,6 +1,8 @@
 
 There will be no more update in this project. Please loop up this [link](https://github.com/jawahar273/practNLPTools-lite/) for better improvement in lines of code.
 
+> Old code is aviable in `dev` branch
+
 practNLPTools
 ==============
 
